@@ -9,7 +9,6 @@ Clone this repo locally, and then point Boop to the local directory:
 
 <img src="screenshots/config.png" />
 
-### Available Scripts
-
-#### Text
+## Available Scripts
+### Text
 - Slugify
